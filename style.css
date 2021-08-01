@@ -1,30 +1,24 @@
 /* font style */
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
-*{
-    margin:0;
-    padding: 0;
-    box-sizing: border-box;
-}
-body{
+body {
     font-family: 'Poppins', sans-serif;
 }
-p{
+
+p {
     color: #6C6B6B;
     font-size: 16px;
 }
-.half-part{
-    width: 50%;
-    padding:70px 0;
 
-}
-
-.half-image img{
-    width: 100%;
-}
-.schedule{
+.schedule {
     color: #21B573;
 }
 
-.red-color{
+.red-color {
     color: #FD511A;
+}
+
+.img-sizing img {
+    height: 85px;
+    width: 100%;
 }
